@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravneet Singh
-- 👀 I’m interested in learning new htings everyday.
+- 👀 I’m interested in learning new things everyday.
 - 🌱 I’m currently working on MERN Stack
-- 
+
 
 ##Subheader
 
